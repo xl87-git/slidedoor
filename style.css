@@ -1,0 +1,31 @@
+#slidedoor{
+	position: relative;
+	margin: auto;
+	height: 488px;
+	border:1px solid #ccc;
+	overflow: hidden;
+}
+
+#slidedoor div{
+	position: absolute;
+	left: 0px;
+	display: block;
+	border:1px solid #eee;
+	width: 360px;
+	height: 488px;
+}
+
+#img1{
+	background-color: #24E2DA;
+}
+#img2{
+	background-color: #1CA29C;
+}
+
+#img3{
+	background-color: #0C6965;
+}
+
+#img4{
+	background-color: #03423F;
+}
